@@ -1,14 +1,8 @@
 ### Hi 👋
-<span>
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDevJayden%2Fhit-counter)](https://hits.seeyoufarm.com)
-</span>
-<span>
-</span>
-<span>
-</span>
+<span>[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDevJayden%2Fhit-counter)](https://hits.seeyoufarm.com)</span>
+<span>[![Blog Badge](http://img.shields.io/badge/-instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/jayden_developer/?hl=ko)](https://www.instagram.com/jayden_developer/?hl=ko)</span>
+<span>[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:snugyun01@gmail.com)</span>
 
-[![Blog Badge](http://img.shields.io/badge/-instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/jayden_developer/?hl=ko)](https://www.instagram.com/jayden_developer/?hl=ko)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:snugyun01@gmail.com)
 	
 
 
