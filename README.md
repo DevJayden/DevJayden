@@ -1,9 +1,9 @@
 ### Hi, good developers (●'◡'●) 🤟 
 ### Let me introduce myself 📳
 
-💻 frontend developer, I like to study
-😊 Do you want to study with me? Click on the link below!
-🙌 [Moka Study Github Link](https://github.com/Moka-react)
+💻 frontend developer, I like to study<br>
+😊 Do you want to study with me? Click on the link below!<br>
+🙌 [Moka Study Github Link](https://github.com/Moka-react)<br>
 📳 [Moka Study KakaoTalk Link](https://open.kakao.com/o/gboLOUQb)
  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDevJayden%2Fhit-counter)](https://hits.seeyoufarm.com)
