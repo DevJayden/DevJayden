@@ -9,4 +9,4 @@
  
 [![Blog Badge](http://img.shields.io/badge/-instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/jayden_developer/?hl=ko)](https://www.instagram.com/jayden_developer/?hl=ko)</span>
 <span>[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:philippijw@gmail.com)](mailto:philippijw@gmail.com)</span>
-<span>[![Moka Study KakaoTalk Link](https://img.shields.io/badge/Moka Study KakaoTalk Link-d14836?style=flat-square&logo=KAKAO&logoColor=white&link=mailto:philippijw@gmail.com)](mailto:philippijw@gmail.com)</span>
+<span>[![Blog Badge](http://img.shields.io/badge/-KakaoTalk-000000?style=flat-square&logo=instagram&logoColor=ffe812&link=https://www.instagram.com/jayden_developer/?hl=ko)](https://www.instagram.com/jayden_developer/?hl=ko)</span>
