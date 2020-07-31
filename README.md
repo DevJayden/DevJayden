@@ -3,15 +3,15 @@
 ### Hello World~ I'm Jayden. I'm a FrontEnd developer (●'◡'●)
   
 ### Let me introduce myself 🤟 
-I write regular blog posts, most of which you will find on my personal blog [Velog](https://velog.io/@jayden)<br>
-I write about things I am familiar with and things that I am learning. 
+* I write regular blog posts, most of which you will find on my personal blog [Velog](https://velog.io/@jayden)<br>
+* I write about things I am familiar with and things that I am learning. 
 
 <details>
  <summary><strong>What i am learning/working on these days(click here!)</strong></summary>
-   - JavaScript <br/>
-   - TypeScript <br/>
-   - React <br/>
-   - Node.js & Express <br/>
+   * JavaScript <br/>
+   * TypeScript <br/>
+   * React <br/>
+   * Node.js & Express <br/>
 </details>
 
 <p align='center'>
