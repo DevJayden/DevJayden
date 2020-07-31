@@ -5,7 +5,8 @@
 <span>
   
 ### Let me introduce myself 🤟 
-frontend developer, I like to study 👏 <br>
+frontend developer,<br>
+I like to study 👏 <br>
 study notes, travel, play, etc 💻 <br>
 <span>[![jayden's Blog](http://img.shields.io/badge/-blog-94d82d?style=flat-square&logo=blog&logoColor=4dabf7&link=https://velog.io/@jayden)](https://velog.io/@jayden)</span>
 <span>[![Blog Badge](http://img.shields.io/badge/-instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/jayden_developer/?hl=ko)](https://www.instagram.com/jayden_developer/?hl=ko)</span>
