@@ -8,10 +8,10 @@
 
 <details>
  <summary><strong>What i am learning/working on these days(click here!)</strong></summary>
-   * JavaScript <br/>
-   * TypeScript <br/>
-   * React <br/>
-   * Node.js & Express <br/>
+   ✔️ JavaScript <br/>
+   ✔️ TypeScript <br/>
+   ✔️ React <br/>
+   ✔️ Node.js & Express <br/>
 </details>
 
 <p align='center'>
