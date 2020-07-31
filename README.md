@@ -9,6 +9,13 @@
 </p>
   
 ### Let me introduce myself 🤟 
-frontend developer,<br>
-I like to study 👏 <br>
-study notes, travel, play, etc 💻 <br>
+I write regular blog posts, most of which you will find on my personal blog [Velog blog](https://velog.io/@jayden)
+I write about things I am familiar with and things that I am learning. 
+
+<details>
+ <summary><strong>What i am learning/working on these days</strong></summary>
+   - JavaScript <br/>
+   - TypeScript <br/>
+   - React <br/>
+   - Node.js & Express <br/>
+</details>
