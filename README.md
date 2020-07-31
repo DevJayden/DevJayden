@@ -19,3 +19,6 @@ I write about things I am familiar with and things that I am learning.
    - React <br/>
    - Node.js & Express <br/>
 </details>
+
+### My Coding Pattren 🤟 
+<script src="https://gist.github.com/DevJayden/86581489374f8c2022796c4fdac797fc.js"></script>
