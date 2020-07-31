@@ -7,7 +7,7 @@
 ### Let me introduce myself 🤟 
 frontend developer, I like to study 👏 <br>
 study notes, travel, play, etc 💻
-<span>[![jayden's Blog](http://img.shields.io/badge/-blog-94d82d?style=flat-square&logo=blog&logoColor=4dabf7&link=https://velog.io/@jayden)](https://velog.io/@jayden)</span>
+<span>[![jayden's Blog](http://img.shields.io/badge/-blog-94d82d?style=flat-square&logo=blog&logoColor=4dabf7&link=https://velog.io/@jayden)](https://velog.io/@jayden)</span><br>
 <span>[![Blog Badge](http://img.shields.io/badge/-instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/jayden_developer/?hl=ko)](https://www.instagram.com/jayden_developer/?hl=ko)</span>
 <span>[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:philippijw@gmail.com)](mailto:philippijw@gmail.com)</span>
 
