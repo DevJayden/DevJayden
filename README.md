@@ -19,6 +19,3 @@ I write about things I am familiar with and things that I am learning.
    - React <br/>
    - Node.js & Express <br/>
 </details>
-
-### My Coding Pattren 🤟 
-
