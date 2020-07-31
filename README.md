@@ -1,14 +1,15 @@
-![image](https://user-images.githubusercontent.com/51406753/88994171-b65b3180-d322-11ea-8ca2-4390efeee996.png)
+<span align=center>[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDevJayden%2Fhit-counter)](https://hits.seeyoufarm.com)<span>
 
+## Hello World (●'◡'●) 
 
-### Hi, good developers (●'◡'●) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDevJayden%2Fhit-counter)](https://hits.seeyoufarm.com)
-<span>
+<p align='center'>
+
+<a href="https://velog.io/@jayden"><img height="30" src="https://user-images.githubusercontent.com/51406753/89020807-7e6fe080-d35a-11ea-9a69-ac748e19bff6.png"></a>
+<a href="https://www.instagram.com/jayden_developer/?hl=ko"><img height="30" src="https://github.com/singhkshitij/singhkshitij/blob/master/instagram.png?raw=true"></a>&nbsp;&nbsp;
+<a href="mailto:jayden@gmail.com"><img height="30" src="https://github.com/singhkshitij/singhkshitij/blob/master/mail.png?raw=true"></a>
+</p>
   
 ### Let me introduce myself 🤟 
 frontend developer,<br>
 I like to study 👏 <br>
 study notes, travel, play, etc 💻 <br>
-<span>[![jayden's Blog](http://img.shields.io/badge/-blog-94d82d?style=flat-square&logo=blog&logoColor=4dabf7&link=https://velog.io/@jayden)](https://velog.io/@jayden)</span>
-<span>[![Blog Badge](http://img.shields.io/badge/-instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/jayden_developer/?hl=ko)](https://www.instagram.com/jayden_developer/?hl=ko)</span>
-<span>[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:philippijw@gmail.com)](mailto:philippijw@gmail.com)</span>
-
