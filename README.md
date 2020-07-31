@@ -3,7 +3,7 @@
 ### Hello World~ I'm Jayden. I'm a FrontEnd developer (●'◡'●)
   
 ### Let me introduce myself 🤟 
-I write regular blog posts, most of which you will find on my personal blog [Velog](https://velog.io/@jayden)
+I write regular blog posts, most of which you will find on my personal blog [Velog](https://velog.io/@jayden)<br>
 I write about things I am familiar with and things that I am learning. 
 
 <details>
