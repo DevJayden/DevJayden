@@ -13,7 +13,7 @@ I write regular blog posts, most of which you will find on my personal blog [Vel
 I write about things I am familiar with and things that I am learning. 
 
 <details>
- <summary><strong>What i am learning/working on these days</strong></summary>
+ <summary><strong>What i am learning/working on these days(click here!)</strong></summary>
    - JavaScript <br/>
    - TypeScript <br/>
    - React <br/>
