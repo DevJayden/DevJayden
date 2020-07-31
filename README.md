@@ -21,4 +21,4 @@ I write about things I am familiar with and things that I am learning.
 </details>
 
 ### My Coding Pattren 🤟 
-![sss](https://gist.github.com/DevJayden/86581489374f8c2022796c4fdac797fc.js)
+
