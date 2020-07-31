@@ -1,6 +1,6 @@
 <span align=center>[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDevJayden%2Fhit-counter)](https://hits.seeyoufarm.com)<span>
 
-### Hello World (●'◡'●) 
+### Hello World~ I'm Jayden. I'm a FrontEnd developer (●'◡'●)
 
 <p align='center'>
 <a href="https://velog.io/@jayden"><img height="30" src="https://user-images.githubusercontent.com/51406753/89021271-356c5c00-d35b-11ea-9262-4fe352600429.png"></a>
