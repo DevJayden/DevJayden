@@ -10,7 +10,7 @@
  <summary><strong>What i am learning/working on these days(click here!)</strong></summary>
    ✔️ JavaScript <br/>
    ✔️ TypeScript <br/>
-   ✔️ React <br/>
+   ✔️ React, Redux <br/>
    ✔️ Node.js & Express <br/>
 </details>
 
